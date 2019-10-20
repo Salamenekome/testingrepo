@@ -1,3 +1,5 @@
 this is txt file just to test git command and github
 
 Second edit: I edit this to show the difference between file in update test-branch update and master branch
+
+Third edit (branch two)
